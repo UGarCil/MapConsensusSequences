@@ -3,8 +3,6 @@
 
 # Modules
 import argparse
-import pandas as pd
-import random
 
 
 # Func. def. mapSeq()
